@@ -2,8 +2,6 @@
 
 ![Cover](img/cover.jpg)
 
-*3 min presentation of this project can be viewed [here](https://youtu.be/oWQYO66rP10)
-
 ## Table of Contents
 1. [Introduction](#introduction)
     - [Background](#background)
@@ -190,8 +188,3 @@ In the future, I can try building an app. The users can upload photos of their m
 * **Software Packages:**  [Python](https://www.python.org/),  [Tensorflow](https://www.tensorflow.org/), [Keras](https://www.tensorflow.org/guide/keras), [Pandas](https://pandas.pydata.org/docs/), [Numpy](https://numpy.org/), [cURL](https://curl.haxx.se/), [Scikit-Learn](https://scikit-learn.org/), [Matplotlib](https://matplotlib.org/), [Scipy](https://docs.scipy.org/doc/), [Seaborn](https://seaborn.pydata.org/)
 * **Server:** [Amazon Web Service (AWS)](https://aws.amazon.com/), [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/)
 * **Classification Methods:** Convolutional Neural Network
-## Author
-
-* **Takeshi Sugiyama** - *Data Scientist*
-  * [Linkedin](https://www.linkedin.com/in/takeshi-sugiyama/)
-  * [Tableau](https://public.tableau.com/profile/takeshi.sugiyama)

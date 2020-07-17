@@ -1,6 +1,6 @@
 # Cancer Image Recognition
 
-![Cover](img/cover.jpg)
+![Cover](images/cover.jpg)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -76,10 +76,10 @@ I split my training and test set with a 80:20 split and ended up with the below 
 Here are a few samples of cancerous and non-cancerous mole images after resizing. As you can see, it is difficult to distinguish cancerous moles from a human eye. 
 
 
-![Cancer negative](img/cancer_neg.png)
+![Cancer negative](images/cancer_neg.png)
 
 
-![Cancer positive](img/cancer_pos.png)
+![Cancer positive](images/cancer_pos.png)
 
 
 
@@ -87,7 +87,7 @@ Here are a few samples of cancerous and non-cancerous mole images after resizing
 I quickly realized that my dataset was imbalanced. Roughly 91% were non-cancerous and only 9% were cancerous. This imbalance makes sense because only a small proportion of the population have cancer at a given time. 
 
 
-![Imbalanced Data](img/unbalanced.png)
+![Imbalanced Data](images/unbalanced.png)
 
 To work with these imbalanced datasets, I decided to adjust the `class_weights` parameter in the `fit` method in `keras`. If I didn’t have enough images, I may have considered oversampling the minority class by augmenting the images in `keras`.
 
@@ -99,7 +99,7 @@ My objective of this project was to have a [recall](https://en.wikipedia.org/wik
 
 Below is the [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) for reference.
 
-![Confusion Matrix](img/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### Base Model
 
@@ -107,7 +107,7 @@ I started off my project with a baseline model so I would have something to comp
 
 With this randomized model, I got a **recall 8.3%,  precision 8.6%, and a F1 score 8.4%**. The below confusion matrix was the predicted total counts.
 
-![Base Model Confusion Matrix](img/base_model_cm.png)
+![Base Model Confusion Matrix](images/base_model_cm.png)
 
 This random model was missing most of the cancerous images and fell extremely short of the desired 95% recall rate. This result wasn’t surprising because it was randomly predicted in an imbalanced dataset. 
 
@@ -120,9 +120,9 @@ Here are the accuracy and loss score after each epoch. With my current AWS insta
 
 I was able to observe that the accuracy and loss were pretty stagnant after 20 epochs. Therefore, I decided that there were no need for additional epochs considering the computational costs.
 
-![Accuracy](img/accuracy.png)
+![Accuracy](images/accuracy.png)
 
-![Loss](img/loss.png)
+![Loss](images/loss.png)
 
 
 ## Model Evaluation
@@ -130,25 +130,25 @@ I was able to observe that the accuracy and loss were pretty stagnant after 20 e
 ### ROC AUC Curve
 My transfer learning model got an area under the curve (AUC) score of **0.886**. This indicates that my model is overall performing well in distinguishing the correct classes.  
 
-![ROC AUC](img/roc_auc.png)
+![ROC AUC](images/roc_auc.png)
 
 ### Precision-Recall Curve
 The graph below is my model’s Precision-Recall Curve.  The area highlighted in red are all recalls >= 95%. As mentioned earlier, I’m building a model that has a recall of 95% or higher. Given that recall >= 95% threshold mark, the most liberal threshold I have for my model is **0.17948207**. 
 
 
-![Precision-Recall Curve](img/pr_curve.png)
+![Precision-Recall Curve](images/pr_curve.png)
 
 ### F1 Score
 In order to confirm I was choosing the best threshold, I plotted all of the F1 scores. The area highlighted in red are all recalls >= 95%. Once my recall was above 95%, I wanted to choose a threshold that gave me the highest F1 score to keep balance of the image classification. The location on the orange star gave me the highest F1 score given that recall >= 95% with a threshold of **0.17885771**. 
 
-![F1 Scores](img/f1.png)
+![F1 Scores](images/f1.png)
 
 
 ### Confusion Matrix
 Using my final threshold of **0.17885771**, I’ve got my results as shown below. 
 
 
-![Final CNN](img/final_CNN.png)
+![Final CNN](images/final_CNN.png)
 
 
 | Metric     | Score |

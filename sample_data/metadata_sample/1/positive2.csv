@@ -1,0 +1,201 @@
+_id,name,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY
+558d62fcbae47801cf734ab6,ISIC_0010394,85,posterior torso,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d62fdbae47801cf734abc,ISIC_0010396,55,head/neck,malignant,6.0,melanoma,histopathology,,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d62febae47801cf734abf,ISIC_0010397,50,lower extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d62febae47801cf734ac2,ISIC_0010398,50,upper extremity,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d62ffbae47801cf734ac8,ISIC_0010400,70,head/neck,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6300bae47801cf734acb,ISIC_0010401,50,lower extremity,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6300bae47801cf734ace,ISIC_0010402,70,head/neck,malignant,14.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6303bae47801cf734add,ISIC_0010407,85,head/neck,malignant,7.5,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6304bae47801cf734ae6,ISIC_0010410,70,lower extremity,malignant,14.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6306bae47801cf734aef,ISIC_0010413,75,head/neck,malignant,16.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6307bae47801cf734af2,ISIC_0010414,80,anterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6307bae47801cf734af5,ISIC_0010415,85,upper extremity,malignant,22.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6308bae47801cf734af8,ISIC_0010416,70,posterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6308bae47801cf734afb,ISIC_0010417,65,upper extremity,malignant,12.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d630bbae47801cf734b0d,ISIC_0010423,80,head/neck,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d630cbae47801cf734b16,ISIC_0010426,70,upper extremity,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d630fbae47801cf734b28,ISIC_0010432,80,lower extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6313bae47801cf734b43,ISIC_0010441,65,head/neck,malignant,4.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d631fbae47801cf734b8e,ISIC_0010466,80,lower extremity,malignant,6.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6321bae47801cf734b94,ISIC_0010468,45,anterior torso,malignant,4.5,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6321bae47801cf734b97,ISIC_0010469,75,head/neck,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6322bae47801cf734b9a,ISIC_0010470,75,head/neck,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6324bae47801cf734bac,ISIC_0010476,55,lower extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6325bae47801cf734bb2,ISIC_0010478,85,head/neck,malignant,14.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6327bae47801cf734bbe,ISIC_0010482,65,head/neck,malignant,17.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6329bae47801cf734bc7,ISIC_0010485,75,posterior torso,malignant,13.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6329bae47801cf734bca,ISIC_0010486,75,posterior torso,malignant,17.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6331bae47801cf734bfd,ISIC_0010503,85,upper extremity,malignant,30.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6337bae47801cf734c1e,ISIC_0010514,40,lower extremity,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6338bae47801cf734c24,ISIC_0010516,65,head/neck,malignant,16.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d633dbae47801cf734c45,ISIC_0010527,70,head/neck,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6340bae47801cf734c54,ISIC_0010532,80,lower extremity,malignant,13.0,melanoma,histopathology,True,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6341bae47801cf734c57,ISIC_0010533,50,posterior torso,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6341bae47801cf734c5a,ISIC_0010534,50,posterior torso,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6342bae47801cf734c60,ISIC_0010536,45,lower extremity,malignant,13.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6343bae47801cf734c63,ISIC_0010537,70,posterior torso,malignant,22.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6346bae47801cf734c75,ISIC_0010543,75,posterior torso,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6348bae47801cf734c7e,ISIC_0010546,80,head/neck,malignant,18.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6349bae47801cf734c84,ISIC_0010548,80,anterior torso,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d634abae47801cf734c8a,ISIC_0010550,65,posterior torso,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d634bbae47801cf734c8d,ISIC_0010551,65,anterior torso,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d634cbae47801cf734c99,ISIC_0010555,65,upper extremity,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d634fbae47801cf734ca5,ISIC_0010559,60,head/neck,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6352bae47801cf734cb4,ISIC_0010564,70,head/neck,malignant,14.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6357bae47801cf734cd8,ISIC_0010576,55,anterior torso,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6359bae47801cf734ce1,ISIC_0010579,80,head/neck,malignant,2.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6359bae47801cf734ce4,ISIC_0010580,60,upper extremity,malignant,17.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d635bbae47801cf734ced,ISIC_0010583,80,upper extremity,malignant,12.5,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d635dbae47801cf734cf9,ISIC_0010587,30,posterior torso,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d635fbae47801cf734d05,ISIC_0010591,60,posterior torso,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6362bae47801cf734d14,ISIC_0010596,60,posterior torso,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6362bae47801cf734d17,ISIC_0010597,45,lower extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6367bae47801cf734d38,ISIC_0010608,45,posterior torso,malignant,19.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6367bae47801cf734d3b,ISIC_0010609,50,anterior torso,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6368bae47801cf734d3e,ISIC_0010610,50,upper extremity,malignant,18.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6368bae47801cf734d41,ISIC_0010611,50,upper extremity,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6371bae47801cf734d77,ISIC_0010629,75,head/neck,malignant,32.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6372bae47801cf734d7a,ISIC_0010630,85,upper extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6372bae47801cf734d7d,ISIC_0010631,85,upper extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6378bae47801cf734da4,ISIC_0010644,40,head/neck,malignant,8.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d637abae47801cf734db0,ISIC_0010648,50,upper extremity,malignant,7.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d637cbae47801cf734dbc,ISIC_0010652,50,head/neck,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d637cbae47801cf734dbf,ISIC_0010653,25,head/neck,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d637dbae47801cf734dc5,ISIC_0010655,65,head/neck,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6381bae47801cf734ddd,ISIC_0010663,80,posterior torso,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6390bae47801cf734e2e,ISIC_0010690,50,lower extremity,malignant,19.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6398bae47801cf734e61,ISIC_0010707,60,head/neck,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d639cbae47801cf734e76,ISIC_0010714,85,head/neck,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d639fbae47801cf734e85,ISIC_0010719,85,lower extremity,malignant,100.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63a1bae47801cf734e91,ISIC_0010723,80,anterior torso,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63a3bae47801cf734ea0,ISIC_0010728,80,posterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63a4bae47801cf734ea3,ISIC_0010729,75,anterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63a5bae47801cf734ea6,ISIC_0010730,80,upper extremity,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63a8bae47801cf734ebb,ISIC_0010737,65,head/neck,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63aabae47801cf734ec7,ISIC_0010741,45,anterior torso,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d63adbae47801cf734ed6,ISIC_0010746,65,anterior torso,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63aebae47801cf734edf,ISIC_0010749,80,upper extremity,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63aebae47801cf734ee2,ISIC_0010750,80,posterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63b0bae47801cf734eee,ISIC_0010754,80,lower extremity,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63b1bae47801cf734ef7,ISIC_0010757,40,lower extremity,malignant,6.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63b2bae47801cf734efd,ISIC_0010759,45,lower extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63b5bae47801cf734f0c,ISIC_0010764,60,posterior torso,malignant,13.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63b5bae47801cf734f0f,ISIC_0010765,60,lower extremity,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63b6bae47801cf734f12,ISIC_0010766,60,lower extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63b6bae47801cf734f15,ISIC_0010767,55,upper extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63b8bae47801cf734f1e,ISIC_0010770,60,lower extremity,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63b9bae47801cf734f24,ISIC_0010772,55,posterior torso,malignant,5.0,melanoma,histopathology,True,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63bbbae47801cf734f33,ISIC_0010777,30,anterior torso,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63bcbae47801cf734f36,ISIC_0010778,85,posterior torso,malignant,18.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63bebae47801cf734f42,ISIC_0010782,75,posterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d63bebae47801cf734f45,ISIC_0010783,70,head/neck,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63bfbae47801cf734f48,ISIC_0010784,70,posterior torso,malignant,12.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63bfbae47801cf734f4b,ISIC_0010785,75,lower extremity,malignant,5.0,melanoma,histopathology,True,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d63c1bae47801cf734f57,ISIC_0010789,60,upper extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63c2bae47801cf734f5a,ISIC_0010790,85,head/neck,malignant,12.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63c2bae47801cf734f5d,ISIC_0010791,65,posterior torso,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63c3bae47801cf734f60,ISIC_0010792,65,head/neck,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63c5bae47801cf734f6c,ISIC_0010796,65,posterior torso,malignant,12.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63c6bae47801cf734f6f,ISIC_0010797,65,posterior torso,malignant,17.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63c6bae47801cf734f75,ISIC_0010799,85,head/neck,malignant,25.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63c8bae47801cf734f81,ISIC_0010803,30,lower extremity,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d63cbbae47801cf734f90,ISIC_0010808,60,lower extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63ccbae47801cf734f93,ISIC_0010809,60,posterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63ccbae47801cf734f96,ISIC_0010810,80,head/neck,malignant,3.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63cdbae47801cf734f9c,ISIC_0010812,75,lower extremity,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63d9bae47801cf734fde,ISIC_0010834,55,lower extremity,malignant,3.0,melanoma,histopathology,True,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63e2bae47801cf735014,ISIC_0010852,30,lower extremity,malignant,5.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63e5bae47801cf73502c,ISIC_0010860,50,posterior torso,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63e6bae47801cf735032,ISIC_0010862,80,lower extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d63e7bae47801cf735035,ISIC_0010863,65,posterior torso,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63e9bae47801cf73503e,ISIC_0010866,85,head/neck,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d63ecbae47801cf735050,ISIC_0010872,80,head/neck,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63eebae47801cf73505c,ISIC_0010876,60,head/neck,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63efbae47801cf735062,ISIC_0010878,60,upper extremity,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63f1bae47801cf735071,ISIC_0010883,85,posterior torso,malignant,2.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63f5bae47801cf735086,ISIC_0010890,70,head/neck,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63f9bae47801cf73509e,ISIC_0010898,65,head/neck,malignant,2.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d63fabae47801cf7350a4,ISIC_0010900,60,upper extremity,malignant,9.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d63febae47801cf7350bf,ISIC_0010909,40,posterior torso,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6400bae47801cf7350c8,ISIC_0010912,85,upper extremity,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6403bae47801cf7350d7,ISIC_0010917,85,posterior torso,malignant,17.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6406bae47801cf7350e9,ISIC_0010923,80,head/neck,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6406bae47801cf7350ef,ISIC_0010925,65,upper extremity,malignant,12.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d640bbae47801cf73510a,ISIC_0010934,65,head/neck,malignant,8.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d640dbae47801cf735116,ISIC_0010938,85,upper extremity,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d640fbae47801cf735122,ISIC_0010942,75,upper extremity,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d641bbae47801cf735167,ISIC_0010965,65,upper extremity,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d641ebae47801cf735179,ISIC_0010971,60,upper extremity,malignant,22.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6421bae47801cf73518b,ISIC_0010977,60,upper extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6422bae47801cf73518e,ISIC_0010978,60,posterior torso,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6422bae47801cf735191,ISIC_0010979,65,head/neck,malignant,8.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6424bae47801cf73519a,ISIC_0010982,70,head/neck,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6428bae47801cf7351b2,ISIC_0010990,55,anterior torso,malignant,14.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6429bae47801cf7351bb,ISIC_0010993,55,head/neck,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d642bbae47801cf7351c1,ISIC_0010995,50,lower extremity,malignant,4.0,melanoma,histopathology,True,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6430bae47801cf7351e5,ISIC_0011007,55,head/neck,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6433bae47801cf7351f4,ISIC_0011012,30,upper extremity,malignant,3.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6433bae47801cf7351f7,ISIC_0011013,40,upper extremity,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d643cbae47801cf73522a,ISIC_0011030,65,upper extremity,malignant,3.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d643cbae47801cf73522d,ISIC_0011031,65,upper extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d643dbae47801cf735230,ISIC_0011032,70,upper extremity,malignant,30.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6441bae47801cf735245,ISIC_0011039,65,head/neck,malignant,16.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6441bae47801cf735248,ISIC_0011040,65,upper extremity,malignant,4.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6442bae47801cf73524e,ISIC_0011042,70,head/neck,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6443bae47801cf735251,ISIC_0011043,70,head/neck,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6444bae47801cf735257,ISIC_0011045,70,upper extremity,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6447bae47801cf73526c,ISIC_0011052,85,head/neck,malignant,17.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6449bae47801cf735278,ISIC_0011056,85,upper extremity,malignant,14.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6449bae47801cf73527b,ISIC_0011057,45,lower extremity,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6453bae47801cf7352b7,ISIC_0011077,65,head/neck,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d645cbae47801cf7352ea,ISIC_0011094,80,upper extremity,malignant,12.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d645cbae47801cf7352ed,ISIC_0011095,80,lower extremity,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d645fbae47801cf7352f9,ISIC_0011099,55,posterior torso,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6465bae47801cf735320,ISIC_0011112,50,anterior torso,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6468bae47801cf735332,ISIC_0011118,75,anterior torso,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d646abae47801cf73533b,ISIC_0011121,85,head/neck,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d646cbae47801cf735347,ISIC_0011125,70,anterior torso,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d646cbae47801cf73534a,ISIC_0011126,45,upper extremity,malignant,18.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d646dbae47801cf735350,ISIC_0011128,70,head/neck,malignant,11.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d646ebae47801cf735356,ISIC_0011130,75,posterior torso,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d646fbae47801cf73535c,ISIC_0011132,75,upper extremity,malignant,3.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6471bae47801cf735365,ISIC_0011135,75,upper extremity,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6471bae47801cf735368,ISIC_0011136,60,head/neck,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6472bae47801cf73536b,ISIC_0011137,65,posterior torso,malignant,6.0,melanoma,histopathology,True,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6472bae47801cf73536e,ISIC_0011138,70,head/neck,malignant,13.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6473bae47801cf735371,ISIC_0011139,70,head/neck,malignant,9.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6474bae47801cf735374,ISIC_0011140,60,upper extremity,malignant,4.0,melanoma,histopathology,True,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d647abae47801cf735395,ISIC_0011151,80,lower extremity,malignant,12.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d647dbae47801cf7353aa,ISIC_0011158,60,upper extremity,malignant,13.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d647fbae47801cf7353b3,ISIC_0011161,75,posterior torso,malignant,13.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6480bae47801cf7353b9,ISIC_0011163,65,posterior torso,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6482bae47801cf7353c2,ISIC_0011166,45,anterior torso,malignant,5.0,melanoma,histopathology,True,,,,,,,True,,,True,female,,,,,,dermoscopic,,1024,768
+558d6483bae47801cf7353cb,ISIC_0011169,45,posterior torso,malignant,5.0,melanoma,histopathology,True,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6485bae47801cf7353da,ISIC_0011174,70,posterior torso,malignant,3.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6486bae47801cf7353e0,ISIC_0011176,55,lower extremity,malignant,6.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6487bae47801cf7353e6,ISIC_0011178,85,head/neck,malignant,30.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d6489bae47801cf7353ef,ISIC_0011181,70,head/neck,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d648abae47801cf7353fb,ISIC_0011185,70,upper extremity,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d648bbae47801cf735401,ISIC_0011187,65,head/neck,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d648fbae47801cf735413,ISIC_0011193,45,head/neck,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d648fbae47801cf735416,ISIC_0011194,85,head/neck,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6490bae47801cf73541c,ISIC_0011196,50,lower extremity,malignant,3.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d6497bae47801cf735443,ISIC_0011209,55,head/neck,malignant,27.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d6497bae47801cf735446,ISIC_0011210,55,posterior torso,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d64a5bae47801cf73549a,ISIC_0011238,85,anterior torso,malignant,25.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d64a6bae47801cf73549d,ISIC_0011239,75,anterior torso,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d64aabae47801cf7354b5,ISIC_0011247,75,posterior torso,malignant,7.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d64aebae47801cf7354d0,ISIC_0011256,45,anterior torso,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d64b0bae47801cf7354dc,ISIC_0011260,55,upper extremity,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d64b2bae47801cf7354e8,ISIC_0011264,65,head/neck,malignant,5.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d64b3bae47801cf7354f1,ISIC_0011267,35,head/neck,malignant,2.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d64b4bae47801cf7354f4,ISIC_0011268,85,posterior torso,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d64b4bae47801cf7354f7,ISIC_0011269,85,upper extremity,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,True,male,,,,,,dermoscopic,,1024,768
+558d64b5bae47801cf7354fa,ISIC_0011270,85,palms/soles,malignant,10.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d64b6bae47801cf735503,ISIC_0011273,85,lower extremity,malignant,15.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d64b7bae47801cf73550c,ISIC_0011276,35,head/neck,malignant,8.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d64b8bae47801cf73550f,ISIC_0011277,85,head/neck,malignant,40.0,melanoma,histopathology,False,,,,,,,True,,,False,female,,,,,,dermoscopic,,1024,768
+558d64bcbae47801cf735527,ISIC_0011285,40,head/neck,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d64bdbae47801cf73552a,ISIC_0011286,50,head/neck,malignant,9.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768
+558d64bebae47801cf735530,ISIC_0011288,70,upper extremity,malignant,4.0,melanoma,histopathology,False,,,,,,,True,,,False,male,,,,,,dermoscopic,,1024,768

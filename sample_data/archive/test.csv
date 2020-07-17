@@ -1,0 +1,301 @@
+_id,name,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY
+5aaf16001165976913645ef6,ISIC_0033936,20,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f04,ISIC_0033937,30,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f16,ISIC_0033938,60,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f22,ISIC_0033939,50,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f30,ISIC_0033940,20,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f3c,ISIC_0033941,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f47,ISIC_0033942,65,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f52,ISIC_0033943,70,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f5f,ISIC_0033944,60,,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f6c,ISIC_0033945,60,posterior torso,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf16011165976913645f79,ISIC_0033946,70,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16021165976913645f85,ISIC_0033947,40,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16021165976913645f90,ISIC_0033948,60,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16021165976913645f9b,ISIC_0033949,70,posterior torso,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16021165976913645fa9,ISIC_0033950,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16021165976913645fb5,ISIC_0033951,45,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16021165976913645fc2,ISIC_0033952,85,posterior torso,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16021165976913645fd3,ISIC_0033953,55,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16021165976913645fe1,ISIC_0033954,30,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16021165976913645fee,ISIC_0033955,45,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16021165976913645ffb,ISIC_0033956,80,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16031165976913646008,ISIC_0033957,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16031165976913646015,ISIC_0033958,50,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16031165976913646022,ISIC_0033959,75,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1603116597691364602e,ISIC_0033960,35,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16031165976913646039,ISIC_0033961,35,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16031165976913646044,ISIC_0033962,30,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf1603116597691364604f,ISIC_0033963,70,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1603116597691364605c,ISIC_0033964,40,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16031165976913646069,ISIC_0033965,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16031165976913646077,ISIC_0033966,15,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16031165976913646083,ISIC_0033967,25,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16041165976913646091,ISIC_0033968,55,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1604116597691364609d,ISIC_0033969,35,lower extremity,,,vascular lesion,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf160411659769136460ab,ISIC_0033970,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160411659769136460b9,ISIC_0033971,45,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160411659769136460c8,ISIC_0033972,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160411659769136460d5,ISIC_0033973,45,posterior torso,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160411659769136460e2,ISIC_0033974,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160411659769136460ee,ISIC_0033975,85,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160411659769136460f9,ISIC_0033976,35,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16051165976913646106,ISIC_0033977,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16051165976913646112,ISIC_0033978,45,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1605116597691364611d,ISIC_0033979,80,head/neck,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf1605116597691364612b,ISIC_0033980,30,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16051165976913646137,ISIC_0033981,45,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16051165976913646142,ISIC_0033982,,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,,,,,,,dermoscopic,,600,450
+5aaf1605116597691364614d,ISIC_0033983,50,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1605116597691364615b,ISIC_0033984,45,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16051165976913646167,ISIC_0033985,70,,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16051165976913646177,ISIC_0033986,30,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16061165976913646187,ISIC_0033987,80,posterior torso,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf16061165976913646196,ISIC_0033988,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160611659769136461a2,ISIC_0033989,50,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160611659769136461af,ISIC_0033990,30,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160611659769136461bc,ISIC_0033991,45,anterior torso,,,vascular lesion,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf160611659769136461c7,ISIC_0033992,25,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160611659769136461d4,ISIC_0033993,35,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160611659769136461e0,ISIC_0033994,45,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160611659769136461eb,ISIC_0033995,60,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160811659769136462f4,ISIC_0034016,30,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160811659769136462ff,ISIC_0034017,50,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf1608116597691364630d,ISIC_0034018,30,posterior torso,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16091165976913646319,ISIC_0034019,,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,,,,,,,dermoscopic,,600,450
+5aaf16091165976913646324,ISIC_0034020,35,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16091165976913646337,ISIC_0034021,15,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16091165976913646348,ISIC_0034022,65,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16091165976913646355,ISIC_0034023,45,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16091165976913646362,ISIC_0034024,60,head/neck,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf1609116597691364636e,ISIC_0034025,50,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16091165976913646379,ISIC_0034026,80,head/neck,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf16091165976913646384,ISIC_0034027,70,upper extremity,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160a1165976913646391,ISIC_0034028,55,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160a116597691364639d,ISIC_0034029,20,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160a11659769136463a8,ISIC_0034030,35,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160a11659769136463b3,ISIC_0034031,65,head/neck,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160a11659769136463be,ISIC_0034032,40,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160a11659769136463cb,ISIC_0034033,20,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160a11659769136463db,ISIC_0034034,70,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160a11659769136463e8,ISIC_0034035,30,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160a11659769136463f6,ISIC_0034036,35,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160a1165976913646405,ISIC_0034037,60,lower extremity,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf160a1165976913646410,ISIC_0034038,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160b116597691364641c,ISIC_0034039,10,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160b116597691364642b,ISIC_0034040,40,,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160b1165976913646439,ISIC_0034041,15,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160b1165976913646446,ISIC_0034042,45,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160b1165976913646454,ISIC_0034043,75,lower extremity,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160b1165976913646460,ISIC_0034044,30,,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160b116597691364646b,ISIC_0034045,,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,,,,,,,dermoscopic,,600,450
+5aaf160b1165976913646476,ISIC_0034046,45,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160b1165976913646484,ISIC_0034047,70,head/neck,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160b1165976913646490,ISIC_0034048,45,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160c116597691364649b,ISIC_0034049,70,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160c11659769136464a6,ISIC_0034050,45,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160c11659769136464b1,ISIC_0034051,55,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160c11659769136464bd,ISIC_0034052,50,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160c11659769136464ca,ISIC_0034053,40,posterior torso,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160c11659769136464d6,ISIC_0034054,35,anterior torso,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160c11659769136464ed,ISIC_0034055,40,lower extremity,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160c11659769136464fb,ISIC_0034056,25,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160c1165976913646509,ISIC_0034057,70,head/neck,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160d1165976913646515,ISIC_0034058,70,posterior torso,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160d1165976913646520,ISIC_0034059,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160d116597691364652b,ISIC_0034060,30,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160d1165976913646538,ISIC_0034061,55,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160d1165976913646544,ISIC_0034062,80,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160d116597691364654f,ISIC_0034063,25,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160d116597691364655a,ISIC_0034064,30,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160d1165976913646565,ISIC_0034065,50,,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160d1165976913646570,ISIC_0034066,70,anterior torso,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160d116597691364657b,ISIC_0034067,65,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160d116597691364658d,ISIC_0034068,70,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160e116597691364659a,ISIC_0034069,55,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160e11659769136465ab,ISIC_0034070,45,upper extremity,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf160e11659769136465b7,ISIC_0034071,50,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160e11659769136465c2,ISIC_0034072,60,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160e11659769136465d0,ISIC_0034073,35,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160e11659769136465de,ISIC_0034074,65,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160e11659769136465ed,ISIC_0034075,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160e11659769136465fb,ISIC_0034076,55,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160e1165976913646607,ISIC_0034077,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160f1165976913646612,ISIC_0034078,35,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160f116597691364661d,ISIC_0034079,60,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160f1165976913646628,ISIC_0034080,,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,,,,,,,dermoscopic,,600,450
+5aaf160f1165976913646636,ISIC_0034081,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160f1165976913646642,ISIC_0034082,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160f116597691364664d,ISIC_0034083,45,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160f1165976913646658,ISIC_0034084,35,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf160f1165976913646663,ISIC_0034085,35,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160f116597691364666e,ISIC_0034086,50,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160f116597691364667b,ISIC_0034087,45,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf160f116597691364668c,ISIC_0034088,35,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161011659769136466a1,ISIC_0034089,70,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161011659769136466b0,ISIC_0034090,65,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161011659769136466bc,ISIC_0034091,40,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161011659769136466c7,ISIC_0034092,65,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161011659769136466d2,ISIC_0034093,80,head/neck,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf161011659769136466df,ISIC_0034094,55,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161011659769136466eb,ISIC_0034095,25,posterior torso,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161011659769136466f6,ISIC_0034096,45,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16101165976913646701,ISIC_0034097,65,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1611116597691364670c,ISIC_0034098,25,anterior torso,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16111165976913646717,ISIC_0034099,40,palms/soles,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16111165976913646722,ISIC_0034100,65,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16111165976913646730,ISIC_0034101,80,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1611116597691364673f,ISIC_0034102,35,,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1611116597691364674e,ISIC_0034103,60,head/neck,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf1611116597691364675d,ISIC_0034104,55,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1611116597691364676a,ISIC_0034105,35,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16111165976913646777,ISIC_0034106,65,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16111165976913646784,ISIC_0034107,40,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16121165976913646794,ISIC_0034108,25,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467a1,ISIC_0034109,30,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467ae,ISIC_0034110,10,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467b9,ISIC_0034111,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467c4,ISIC_0034112,30,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467cf,ISIC_0034113,70,posterior torso,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161211659769136467da,ISIC_0034114,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467e5,ISIC_0034115,40,anterior torso,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467f3,ISIC_0034116,35,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161211659769136467ff,ISIC_0034117,70,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1612116597691364680a,ISIC_0034118,25,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16131165976913646815,ISIC_0034119,70,head/neck,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16131165976913646820,ISIC_0034120,60,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16131165976913646830,ISIC_0034121,20,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1613116597691364683d,ISIC_0034122,35,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16131165976913646850,ISIC_0034123,80,head/neck,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf16131165976913646862,ISIC_0034124,30,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf1613116597691364686e,ISIC_0034125,80,posterior torso,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16131165976913646879,ISIC_0034126,80,posterior torso,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16131165976913646884,ISIC_0034127,20,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1614116597691364688f,ISIC_0034128,25,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf1614116597691364689a,ISIC_0034129,60,,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161411659769136468a5,ISIC_0034130,,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,,,,,,,dermoscopic,,600,450
+5aaf161411659769136468b2,ISIC_0034131,30,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161411659769136468be,ISIC_0034132,70,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161411659769136468c9,ISIC_0034133,45,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161411659769136468d4,ISIC_0034134,75,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161411659769136468df,ISIC_0034135,35,lower extremity,,,dermatofibroma,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf161411659769136468ef,ISIC_0034136,60,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161411659769136468ff,ISIC_0034137,65,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1615116597691364690f,ISIC_0034138,15,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf1615116597691364691b,ISIC_0034139,70,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16151165976913646926,ISIC_0034140,70,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16151165976913646931,ISIC_0034141,70,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16151165976913646940,ISIC_0034142,70,posterior torso,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf1615116597691364694f,ISIC_0034143,25,posterior torso,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf1615116597691364695f,ISIC_0034144,40,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1615116597691364696b,ISIC_0034145,55,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16151165976913646976,ISIC_0034146,40,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16151165976913646981,ISIC_0034147,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf1616116597691364698c,ISIC_0034148,25,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16161165976913646997,ISIC_0034149,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161611659769136469a5,ISIC_0034150,85,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161611659769136469b1,ISIC_0034151,60,,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161611659769136469bc,ISIC_0034152,35,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161611659769136469c7,ISIC_0034153,50,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161611659769136469d2,ISIC_0034154,,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,,,,,,,dermoscopic,,600,450
+5aaf161611659769136469df,ISIC_0034155,45,,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf161611659769136469ee,ISIC_0034156,50,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a05,ISIC_0034157,25,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a14,ISIC_0034158,55,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a20,ISIC_0034159,55,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a2b,ISIC_0034160,75,posterior torso,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a36,ISIC_0034161,30,posterior torso,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a42,ISIC_0034162,70,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a4f,ISIC_0034163,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a5a,ISIC_0034164,25,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a65,ISIC_0034165,55,lower extremity,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a70,ISIC_0034166,15,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16171165976913646a7b,ISIC_0034167,70,posterior torso,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16181165976913646a86,ISIC_0034168,85,anterior torso,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16181165976913646a93,ISIC_0034169,50,upper extremity,,,dermatofibroma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16181165976913646aa3,ISIC_0034170,80,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16181165976913646ab3,ISIC_0034171,45,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16181165976913646ac2,ISIC_0034172,60,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16181165976913646acd,ISIC_0034173,75,head/neck,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16181165976913646ada,ISIC_0034174,50,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16181165976913646ae7,ISIC_0034175,80,head/neck,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf16191165976913646af8,ISIC_0034176,35,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b07,ISIC_0034177,60,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b12,ISIC_0034178,20,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b1d,ISIC_0034179,20,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b28,ISIC_0034180,65,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b33,ISIC_0034181,55,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b3e,ISIC_0034182,65,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b4c,ISIC_0034183,50,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b58,ISIC_0034184,40,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b63,ISIC_0034185,45,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b6e,ISIC_0034186,,,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,,,,,,,dermoscopic,,600,450
+5aaf16191165976913646b79,ISIC_0034187,15,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646b85,ISIC_0034188,70,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646b95,ISIC_0034189,80,head/neck,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646ba9,ISIC_0034190,20,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646bba,ISIC_0034191,55,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646bc7,ISIC_0034192,30,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646bd2,ISIC_0034193,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646bdd,ISIC_0034194,50,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646be8,ISIC_0034195,,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,,,,,,,dermoscopic,,600,450
+5aaf161a1165976913646bf5,ISIC_0034196,80,lower extremity,,,vascular lesion,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c01,ISIC_0034197,70,head/neck,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c0c,ISIC_0034198,5,,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c17,ISIC_0034199,45,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c22,ISIC_0034200,55,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c2d,ISIC_0034201,45,head/neck,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c38,ISIC_0034202,70,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c45,ISIC_0034203,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c55,ISIC_0034204,45,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c65,ISIC_0034205,55,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161b1165976913646c74,ISIC_0034206,20,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646c80,ISIC_0034207,50,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646c8d,ISIC_0034208,60,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646c9b,ISIC_0034209,25,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646cac,ISIC_0034210,55,,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646cb9,ISIC_0034211,45,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646cc4,ISIC_0034212,35,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646ccf,ISIC_0034213,55,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646cda,ISIC_0034214,60,,,,vascular lesion,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646ce5,ISIC_0034215,20,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161c1165976913646cf0,ISIC_0034216,35,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646cfe,ISIC_0034217,60,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646d0a,ISIC_0034218,80,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646d15,ISIC_0034219,75,posterior torso,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646d20,ISIC_0034220,40,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646d2b,ISIC_0034221,60,posterior torso,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646d38,ISIC_0034222,30,posterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646d4a,ISIC_0034223,85,head/neck,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,female,,,,,,dermoscopic,,600,450
+5aaf161d1165976913646d5e,ISIC_0034224,30,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646d6d,ISIC_0034225,55,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646d79,ISIC_0034226,45,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646d84,ISIC_0034227,40,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646d8f,ISIC_0034228,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646d9b,ISIC_0034229,20,posterior torso,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646da8,ISIC_0034230,45,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646db3,ISIC_0034231,20,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646dbe,ISIC_0034232,20,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646dc9,ISIC_0034233,50,,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646dd4,ISIC_0034234,30,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646ddf,ISIC_0034235,80,head/neck,,,pigmented benign keratosis,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
+5aaf161e1165976913646deb,ISIC_0034236,55,,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646dfc,ISIC_0034237,40,lower extremity,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646e0a,ISIC_0034238,30,posterior torso,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646e1a,ISIC_0034239,85,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646e26,ISIC_0034240,60,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646e34,ISIC_0034241,25,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646e42,ISIC_0034242,45,upper extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646e51,ISIC_0034243,45,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf161f1165976913646e5f,ISIC_0034244,20,anterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646e6b,ISIC_0034245,40,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646e76,ISIC_0034246,65,lower extremity,malignant,,melanoma,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646e81,ISIC_0034247,25,head/neck,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646e8c,ISIC_0034248,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646e97,ISIC_0034249,55,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16201165976913646ea2,ISIC_0034250,40,,benign,,nevus,single image expert consensus,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646eb0,ISIC_0034251,80,upper extremity,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646ebc,ISIC_0034252,,,,,pigmented benign keratosis,single image expert consensus,,,,,,,,False,,,,,,,,,,dermoscopic,,600,450
+5aaf16201165976913646ec7,ISIC_0034253,60,anterior torso,malignant,,melanoma,histopathology,,,,,,,,True,,,,male,,,,,,dermoscopic,,600,450
+5aaf16201165976913646ed2,ISIC_0034254,55,posterior torso,benign,,nevus,histopathology,,,,,,,,True,,,,female,,,,,,dermoscopic,,600,450
+5aaf16201165976913646edf,ISIC_0034255,75,anterior torso,,,basal cell carcinoma,histopathology,,,,,,,,False,,,,male,,,,,,dermoscopic,,600,450
